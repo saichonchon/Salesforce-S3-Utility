@@ -8,5 +8,5 @@
 		<members>AWS_Configuration__c</members>
 		<name>CustomObject</name>
 	</types>
-	<version>36.0</version>
+	<version>43.0</version>
 </Package>
