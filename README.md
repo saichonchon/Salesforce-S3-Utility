@@ -4,7 +4,7 @@
 This is a simple Apex class that interacts with AWS S3
 
 ### Deployment
-<a href="https://githubsfdeploy.herokuapp.com?owner=saichonchon&repo=Salesforce-S3-Utility">
+<a href="https://githubsfdeploy.herokuapp.com/?owner=saichonchon&repo=apex-Salesforce-S3-Utility">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
